@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hdahmani1
-- 👀 I’m interested in c# civil and structural engineering codes
-- 🌱 I’m currently learning java and c#
+- 👀 I’m interested in C# civil and structural engineering codes
+- 🌱 I’m currently learning java and C#
 - 💞️ I’m looking to collaborate on Prestressed Hollowcore projects
 - 📫 How to reach me houcine.dahmani1@gmail.com
 
